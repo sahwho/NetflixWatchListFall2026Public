@@ -10,7 +10,7 @@ import org.junit.Test;
  * Project: Netflix WatchList
  * Public Test Cases
  * Framework: JUnit 4
- * Last Updated: 10/07/2026
+ * Last Updated: 10/08/2026
  */
 
 public class PublicTests {
